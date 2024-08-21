@@ -1,8 +1,0 @@
-{
-  "name": "web-server",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "git@github.com:Brave-Redemptive/web-server.git",
-  "author": "Usheninte Dangana <ninte@nullnow.com>",
-  "license": "MIT"
-}
